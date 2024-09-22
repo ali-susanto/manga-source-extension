@@ -1,0 +1,54 @@
+[
+    {
+        "name": "Tachiyomi: Shinigami",
+        "pkg": "eu.kanade.tachiyomi.extension.id.ahottie",
+        "apk": "tachiyomi-id.ahottie-v1.0.5.apk",
+        "lang": "id",
+        "code": 1,
+        "version": "1.0.5",
+        "nsfw": 0,
+        "sources": [
+            {
+                "name": "Shinigami",
+                "lang": "id",
+                "id": "8424731165623919097",
+                "baseUrl": "https://shinigami05.com/"
+            }
+        ]
+    },
+    {
+        "name": "Tachiyomi: KomikCast",
+        "pkg": "eu.kanade.tachiyomi.extension.id.KomikCast",
+        "apk": "tachiyomi-id.KomikCast-v1.0.1.apk",
+        "lang": "id",
+        "code": 2,
+        "version": "1.0.1",
+        "nsfw": 0,
+        "sources": [
+            {
+                "name": "KomikCast",
+                "lang": "id",
+                "id": "9716661336537395699",
+                "baseUrl": "https://komikcast.cz/"
+            }
+        ]
+    },
+    {
+        "name": "Tachiyomi: Ace-Cloud",
+        "pkg": "eu.kanade.tachiyomi.extension.id.Ace-Cloud",
+        "apk": "tachiyomi-id.Ace-Cloud-v1.0.1.apk",
+        "lang": "id",
+        "code": 3,
+        "version": "1.0.1",
+        "nsfw": 0,
+        "sources": [
+            {
+                "name": "Ace-Cloud",
+                "lang": "id",
+                "id": "5937240108474254193",
+                "baseUrl": "https://www.colamanga.com/"
+            }
+        ]
+    }
+   
+]
